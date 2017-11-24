@@ -6,7 +6,7 @@ by Peter X. Tan
 
 ## Requirements
 
-- Node
+- [Node](https://nodejs.org/en/)
 - Bower
 
 ### Installing System Dependencies
@@ -20,3 +20,4 @@ bower install
 ## Testing
 
 Open **_test/index.html_** in the browser
+
